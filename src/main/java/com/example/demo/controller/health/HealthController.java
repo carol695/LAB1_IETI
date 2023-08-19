@@ -1,4 +1,5 @@
-package controller.health;
+package com.example.demo.controller.health;
+
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import org.springframework.web.bind.annotation.RestController;
